@@ -7,7 +7,7 @@ Depending on your BIOS software, go to Advanced Settings, look for Virtualizatio
 https://www.virtualbox.org/wiki/Downloads
 VBoxManage --version
 
-### 3. Downlaod popular SSH client PuTTY.exe from www.putty.org (do not need installation)
+### 3. Download popular SSH client PuTTY.exe from www.putty.org (do not need installation)
 
 ### 4. Download to your computer Centos Minimal .ISO image at
 https://site.ada.edu.az/~aadamov/sources/downloads/ 
