@@ -17,12 +17,12 @@ or http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-17
 Specify Name, type (Linux), version (Red Hat 64) and follow to default paramenters
 
 **6. To assign Centos Image to newly created VM**
-    - right click on VM 
-    - select Settings
-    - select Storage tab
-    - select Empty under Controller: IDE
-    - on right side in Attributes click to small disc icon on the right of Optical Drive
-    - browse and select Centos .ISO Image file
+- right click on VM 
+- select Settings
+- select Storage tab
+- select Empty under Controller: IDE
+- on right side in Attributes click to small disc icon on the right of Optical Drive
+- browse and select Centos .ISO Image file
 
 **7. To allow host computer and other computers in the same network to access VM**
     - right click on VM 
