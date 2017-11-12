@@ -1,9 +1,9 @@
 # Installing a CentOS 7 Minimal VM with VirtualBox on Windows 10 with SSH support
 
-**1. Restart your computer enter to BIOS** 
+###1. Restart your computer enter to BIOS
 Depending on your BIOS software, go to Advanced Settings, look for Virtualization (Technology VT), make sure that it's Enabled.
 
-**2. Download and install binary installer appropriate for your platform from**
+###2. Download and install binary installer appropriate for your platform from**
 https://www.virtualbox.org/wiki/Downloads
 VBoxManage --version
 
